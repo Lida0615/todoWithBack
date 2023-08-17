@@ -1,0 +1,5 @@
+export {default as Logo} from './svg/Logo.svg'
+export {default as Plus} from './svg/plus.svg'
+export {default as TaskIsComplete} from './svg/TaskIsComplete.svg'
+export {default as TaskIsNotComplete} from './svg/TaskIsNotComplete.svg'
+export {default as Trash} from './svg/Trash.svg'

@@ -1,0 +1,20 @@
+.tasks{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+.task{
+    color: var(--gray-100, #F2F2F2);
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 140%; /* 19.6px */
+display: flex;
+gap: 12px;
+padding: 16px;
+align-items: flex-start;
+}
+.task img{
+    cursor: pointer;
+}

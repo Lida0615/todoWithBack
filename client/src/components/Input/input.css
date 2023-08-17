@@ -1,0 +1,6 @@
+input{flex-grow: 2;
+    border-radius: 8px;
+border: 1px solid var(--gray700);
+background: var(--gray500);
+padding: 16px;
+}

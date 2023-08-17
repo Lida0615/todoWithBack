@@ -1,0 +1,21 @@
+.btn{
+    color: var(--gray100);
+
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 140%; 
+    border-radius: 8px;
+background: var(--blue-dark);
+display: flex;
+padding: 16px;
+justify-content: center;
+align-items: center;
+gap: 8px;
+}
+.btn.complite{
+
+    background-color: rgb(0, 15, 128);
+    color: aliceblue;
+   
+}

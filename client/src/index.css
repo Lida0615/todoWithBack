@@ -1,0 +1,31 @@
+:root{
+  --gray600: #1A1A1A;
+  --gray700: #0D0D0D;
+  --gray500: #262626;
+  --gray100: #F2F2F2;
+  --blue-dark: #1E6F9F;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Inter;
+}
+body{
+  background:var(--gray600) ;
+}
+ul{
+  list-style: none;
+}
+
+button, input{
+  border: none;
+outline: none;
+background-color: transparent;
+}
+.container{
+  max-width: 736px;
+  width: 100%;
+  margin: auto;
+}

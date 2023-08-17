@@ -1,0 +1,32 @@
+.CountTask{
+    color: #4EA8DE;
+
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.createdTasks{
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+.isComplitedTasks{
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.isComplitedTasks_items{
+    display: flex;
+padding: 2px 8px;
+
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 999px;
+background: var(--gray-400, #333);
+}
